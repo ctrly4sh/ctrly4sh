@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash tiwari aka y4sh</h1>
 <h3 align="center">A Programmer (i consider my self) </h3>
-<h4 align="center">Full Stack || AI-ML || Cloud || React Native</h4>
+<h4 align="center"> MERN  | T3 Stack |  AI-ML |  Cloud  | React Native</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctryly4sh&label=Profile%20views&color=0e75b6&style=flat" alt="ctryly4sh" /> </p>
 
