@@ -4,7 +4,7 @@
 <h3 align="center">Also exploring the realms of Artificial engineering  , Machine Learning , Deep Learning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctryly4sh&label=Profile%20views&color=0e75b6&style=flat" alt="ctryly4sh" /> </p>
 
-<h3>Mail at : </h3> <a href="mailto:y4sh.dev@gmail.com">y4sh.dev</a> </br>
+ <p > <span> <h3>Mail at : </h3> <a href="mailto:y4sh.dev@gmail.com">y4sh.dev</a> </span> </p> </br>
 
 <p align="left"> <a href="https://twitter.com/y4shofc" target="blank"><img src="https://img.shields.io/twitter/follow/y4shofc?logo=twitter&style=for-the-badge" alt="y4shofc" /></a> </p>
 
