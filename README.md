@@ -7,8 +7,6 @@
   
 <a href="mailto:y4sh.dev@gmail.com">Reach me 📩</a></br>
 
-<p align="left"> <a href="https://twitter.com/y4shofc" target="blank"><img src="https://img.shields.io/twitter/follow/y4shofc?logo=twitter&style=for-the-badge" alt="y4shofc" /></a> </p>
-
 - **I can't center a div :(**
 
 <h3 align="left">Connect with me:</h3>
