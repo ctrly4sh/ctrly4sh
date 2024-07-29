@@ -4,7 +4,6 @@
 <h3 align="center">Ployglot Programmer </h3>
 <h4 align="center">Backend | Cloud </h4>
 <h3 align="center">Exploring realms of Meta Verse , Artificial engineering  , Machine Learning , Deep Learning and CyberSecurity</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctryly4sh&label=Profile%20views&color=0e75b6&style=flat" alt="ctryly4sh" /> </p>
   
 <a href="mailto:y4sh.dev@gmail.com">Reach me 📩</a></br>
 
