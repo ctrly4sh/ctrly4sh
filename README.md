@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">yash aka ctrly4sh</h1>
 <h3  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Polyglot Programmer</h3>
-<h4  align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Backend | Cloud</h4>
+<h4  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Backend | Cloud</h4>
 <h3  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Exploring realms of Programming</h3>
 <h2>A backend dev who finds his hard time while centering a div ....</h2>
 <p style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">
