@@ -1,9 +1,33 @@
 <h1 align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">yash aka ctrly4sh</h1>
-<h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Polyglot Programmer</h3>
-<h4 align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Backend | Cloud</h4>
-<h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Exploring realms of Programming</h3>
+<h3  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Polyglot Programmer</h3>
+<h4  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Backend | Cloud</h4>
+<h3  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Exploring realms of Programming</h3>
+<h2>A backend dev who finds his hard time while centering a div ....</h2>
+{
+  "Code is like humor. When you have to explain it, it’s bad."
+  "stack": [
+    "typescript",
+    "python"
+  ],
+  "technologies": {
+    "backEnd": [
+      "node",
+      "fastapi",
+      "postgres"
+    ],
+    "hustle": [
+      "go",
+      "rust"
+    ],
+    "other": [
+      "aws",
+      "docker"
+    ]
+  }
+}
 
-<p align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">
+
+<p style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">
   Mail me at: <a href="mailto:y4sh.dev@gmail.com" style="color: #b0b0b0;">y4sh.dev</a>
 </p>
 
