@@ -5,7 +5,7 @@
 <h4 align="center">Backend | Cloud </h4>
 <h3 align="center">Exploring realms of Meta Verse , Artificial engineering  , Machine Learning , Deep Learning and CyberSecurity</h3>
   
-<a href="mailto:y4sh.dev@gmail.com">Mail me at y4sh.dev</a></br>
+Mail me at : <a href="mailto:y4sh.dev@gmail.com">y4sh.dev</a></br>
 
 - **I can't center a div :)**
 
