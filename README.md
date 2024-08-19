@@ -1,15 +1,46 @@
-<h1 align="center" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0; font-stytle: 'none' ">yash aka ctrly4sh</p>
-<p  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Polyglot Programmer</p>
-<p  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Backend | Cloud</p>
-<p  style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Exploring realms of Programming</p>
-<p>A backend dev who finds his hard time while centering a div ....</p>
-<p style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">
-  Mail me at: <a href="mailto:y4sh.dev@gmail.com" style="color: #b0b0b0;">y4sh.dev</a>
-</p>
+```javascript
+const y4sh = {
+    keywords: ["polyglot programmer", "Tech Enth."],
+    about: "A backend dev having hard times while centering a div!",
+    stack: [
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    ],
+    hustle: [
+        "Go",
+        "Rust"
+    ],
+    quote: "programming is easy af !!",
+    tech_stack: [
+        "Node.js",
+        "Express",
+        "FastAPI",
+        "MongoDB",
+        "PostgreSQL"
+    ],
+    tools: [
+        "VS Code",
+        "ZED",
+        "Postman",
+        "Ubuntu"
+    ],
+    areas_of_interest: [
+        "Backend",
+        "Open Source Programming",
+        "CyberSecurity",
+        "and a bit of a lot of things"
+    ]
+};
 
-<p align="left" style="font-family: 'JetBrains Mono', monospace; color: #b0b0b0;">Connect with me:</p>
-<p align="left">
-  <a href="https://twitter.com/y4shofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y4shofc" height="30" width="40" /></a>
-  <a href="https://instagram.com/y4shofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y4shofc" height="30" width="40" /></a>
-  <a href="https://reddit.com/user/Puzzleheaded-Bad7169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="y4shofc" height="30" width="40" /></a>
-</p>
+```
+<div align="center">
+<a href="https://github.com/ctrly4sh#gh-light-mode-only">
+<img alt="Activity stats" src="https://github-readme-streak-stats.herokuapp.com/?theme=github&user=ctrly4sh&hide_border=true&date_format=%5BY%20%5DM%20j#gh-light-mode-only" />
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrly4sh&layout=compact&hide_border=true#gh-light-mode-only" />
+</a>
+<a href="https://github.com/everdrone#gh-dark-mode-only">
+<img alt="Activity stats" src="https://github-readme-streak-stats.herokuapp.com/?theme=github-dark&user=ctrly4sh&hide_border=true&date_format=%5BY%20%5DM%20j#gh-dark-mode-only" />
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrly4sh&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only" />
+</a>
+</div>
