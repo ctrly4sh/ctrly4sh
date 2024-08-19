@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey , this is Yash tiwari aka y4sh</h1>
+<h1 align="center">yash aka ctrly4sh</h1>
 <h3 align="center">Ployglot Programmer </h3>
 <h4 align="center">Backend | Cloud </h4>
 <h3 align="center">Exploring realms of Meta Verse , Artificial engineering  , Machine Learning , Deep Learning and CyberSecurity</h3>
