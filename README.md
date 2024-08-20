@@ -2,7 +2,7 @@
 const y4sh = {
     keywords: ["polyglot programmer", "Tech Enth."],
     about: "A backend dev having hard times while centering a div!",
-    stack: [
+    languages: [
         "JavaScript",
         "TypeScript",
         "Python"
@@ -23,10 +23,15 @@ const y4sh = {
         "VS Code",
         "ZED",
         "Postman",
-        "Ubuntu"
+        "Docker",
+    ],
+    OS:[
+        "Ubuntu",
+        "Windows",
     ],
     areas_of_interest: [
         "Backend",
+        "Meta Verse"
         "Open Source Programming",
         "CyberSecurity",
         "and a bit of a lot of things"
