@@ -1,7 +1,7 @@
 ```javascript
 const y4sh = {
     keywords: ["polyglot programmer", "Tech Enth."],
-    about: "A backend dev having hard times while centering a div!",
+    about: "backend guy , exploring AI-ML also trying CTFs",
     languages: [
         "JavaScript",
         "TypeScript",
@@ -30,10 +30,13 @@ const y4sh = {
         "Windows",
     ],
     areas_of_interest: [
+        "AI,ML,DL",
+        "OSINT",
         "Backend",
-        "Meta Verse"
+        "Meta Verse",
         "Open Source Programming",
         "CyberSecurity",
+        "CTF",
         "and a bit of a lot of things"
     ]
 };
