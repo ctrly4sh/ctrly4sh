@@ -1,7 +1,7 @@
 ```javascript
 const y4sh = {
     keywords: ["polyglot programmer", "Tech Enth."],
-    about: "backend guy , exploring AI-ML also trying CTFs",
+    about: "backend  , exploring AI-ML , Cyber and Info security",
     languages: [
         "JavaScript",
         "TypeScript",
