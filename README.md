@@ -11,7 +11,7 @@ const y4sh = {
         "Go",
         "Rust"
     ],
-    quote: "programming is easy af !!",
+    quote: "programming is easy af !! (i wish 😣)",
     tech_stack: [
         "Node.js",
         "Express",
